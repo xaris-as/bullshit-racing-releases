@@ -1,0 +1,84 @@
+{
+ "schema": 1,
+ "history": [
+  {
+   "date": "2026-11-24",
+   "title": {
+    "el": "Μηχανές, κόλπα και ζωντανές cutscenes",
+    "en": "Bikes, tricks and livelier cutscenes"
+   },
+   "notes": {
+    "el": [
+     "Μηχανές: Street Fighter, Scrambler και Hog στο γκαράζ. Γέρνουν στις στροφές και σηκώνουν σούζα στα boost. Η Juno γύρισε στις δύο ρόδες.",
+     "Κόλπα στις ράμπες: πάτα Space (ή άγγιξε την οθόνη) στον αέρα για τούμπα ή περιστροφή, έως 3 στη σειρά, και πάρε boost στην προσγείωση. Αν προσγειωθείς στη μέση του κόλπου, χάνεις ταχύτητα.",
+     "Διορθώθηκαν τα animations που «ξέφευγαν»: το σαγόνι, τα αυτιά και οι ουρές δεν γυρίζουν πια, τα χέρια μένουν στο τιμόνι και τα loops δεν πετάγονται.",
+     "Cutscenes: οι χαρακτήρες κάνουν χειρονομίες όταν μιλάνε, κοιτάζουν αυτόν που μιλάει και αντιδρούν. Ο Max έχει δικές του κινήσεις.",
+     "Στον αγώνα: σκύβουν στις εκρήξεις και πανηγυρίζουν μετά από combo.",
+     "Φωνές: νέα, καθαρότερη ελληνική φωνή και πιο ήπια επεξεργασία, χωρίς τριξίματα.",
+     "Horn Peak: διορθώθηκε το συνεχές respawn μετά τη λίμνη.",
+     "Online: όσοι έχουν διαφορετική έκδοση από τον host δεν μπαίνουν στο δωμάτιο και βλέπουν μήνυμα."
+    ],
+    "en": [
+     "Bikes: Street Fighter, Scrambler and Hog in the garage. They lean into corners and wheelie on boosts. Juno is back on two wheels.",
+     "Ramp tricks: press Space (or tap) in the air for flips and spins, up to 3 in a row, and get a boost on landing. Land mid-trick and you lose speed.",
+     "Fixed the glitchy animations: jaws, ears and tails no longer spin, hands stay on the wheel and loops no longer jump.",
+     "Cutscenes: characters gesture while they talk, look at whoever is speaking and react. Max got his own moves.",
+     "In races: racers duck from explosions and cheer after combos.",
+     "Voices: a new, cleaner Greek voice and gentler processing, no more crackle.",
+     "Horn Peak: fixed the endless respawning after the lake.",
+     "Online: players on a different version from the host are kept out of the room with a message."
+    ]
+   },
+   "version": "5.0.0"
+  },
+  {
+   "date": "2026-11-24",
+   "title": {
+    "el": "Online στο ίδιο Wi-Fi",
+    "en": "Online on the same Wi-Fi"
+   },
+   "notes": {
+    "el": [
+     "Διορθώθηκε η σύνδεση στο online όταν οι παίκτες είναι στο ίδιο δίκτυο.",
+     "Καθαρά μηνύματα όταν η σύνδεση αποτυγχάνει, αντί να κολλάει στο «Joining»."
+    ],
+    "en": [
+     "Fixed online joining when players are on the same network.",
+     "Clear messages when a connection fails instead of hanging on Joining."
+    ]
+   },
+   "version": "4.0.1"
+  },
+  {
+   "date": "2026-11-24",
+   "title": {
+    "el": "Η Λίγκα του Bullshit",
+    "en": "The Bullshit League"
+   },
+   "notes": {
+    "el": [
+     "Story mode με 8 κόσμους, 11 νέες πίστες και ελληνικές φωνές.",
+     "Βαρέλια KABOOM, online με φίλους και υλικά με γούνα, δέρμα και μέταλλο."
+    ],
+    "en": [
+     "Story mode with 8 worlds, 11 new tracks and Greek voices.",
+     "KABOOM barrels, online with friends and fur, leather and metal materials."
+    ]
+   },
+   "version": "4.0.0"
+  }
+ ],
+ "game": {
+  "version": "5.0.0",
+  "date": "2026-11-24",
+  "manifest": "game/manifests/5.0.0.json",
+  "size": 19722756
+ },
+ "minLauncher": "1.0.0",
+ "news": [
+  {
+   "el": "Νέα έκδοση 5.0.0: μηχανές και κόλπα στις ράμπες!",
+   "en": "Version 5.0.0 is out: bikes and ramp tricks!"
+  }
+ ]
+}

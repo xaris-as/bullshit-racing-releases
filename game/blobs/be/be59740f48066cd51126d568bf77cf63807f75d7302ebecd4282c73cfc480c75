@@ -1,0 +1,5 @@
+{
+  "about": "Optional soundtrack. Map a music style to an audio file in this folder (mp3/ogg/m4a). Styles: menu, meadow (Clover Hills), coast (Coral Coast), canyon (Sunset Canyon), frost (Frosty Peak), harbor (Sky Harbor). Unmapped styles use the built-in synth.",
+  "volume": 1,
+  "tracks": {}
+}
