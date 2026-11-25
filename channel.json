@@ -2,6 +2,40 @@
  "schema": 1,
  "history": [
   {
+   "date": "2026-11-26",
+   "title": {
+    "el": "v6: φως, κόσμοι που φαίνονται, abilities που χτυπάνε",
+    "en": "v6: real light, worlds you can read, abilities that hit hard"
+   },
+   "notes": {
+    "el": [
+     "Καινούριος φωτισμός: στις σκοτεινές πίστες, στις σκεπαστές γέφυρες και στη στοά πάγου τα οχήματα ανάβουν προβολείς που φωτίζουν στ' αλήθεια τον δρόμο. Οι λάμπες φωτίζουν δρόμο, γρασίδι και οχήματα, και η βρεγμένη άσφαλτος γυαλίζει από κάτω τους.",
+     "Στα τμήματα με το ανεμόπτερο δεν υπάρχουν πια αόρατοι τοίχοι: στις άκρες ένα ρεύμα αέρα σε φέρνει μαλακά πίσω στη διαδρομή. Το βλέπεις σαν ριπές στις άκρες και σε βγάζει ευθυγραμμισμένο για την προσγείωση.",
+     "Οι κόσμοι του story είναι πάνω στην πίστα: σκουριασμένες λαμαρίνες, λάδια, λάσπη, φρέσκια άσφαλτος, πάγος, χιόνι, λακκούβες, άμμος, λωρίδες Βολτ, ιμάντες και η χρυσή λωρίδα του Ταύρου αλλάζουν την οδήγηση, και τα βλέπεις από μακριά.",
+     "Κίνδυνοι με χρονόμετρο που προειδοποιούν: ρωγμές λάβας που καπνίζουν και μετά σκάνε, καλώδια που σπινθηρίζουν στις λακκούβες, αλιγάτορες που βγάζουν φυσαλίδες, γερανοί με βαμμένη ζώνη κινδύνου.",
+     "Ό,τι πατάς φαίνεται: σπίθες στις λαμαρίνες, λάσπη και νερό από τις ρόδες, σκόνη, χιόνι, πέτρες, ηλεκτρικά τόξα. Ο πλευρικός αέρας σπρώχνει χιόνι και σκόνη πάνω από τον δρόμο.",
+     "Τα abilities φωτίζουν τον δρόμο γύρω σου στο χρώμα τους όσο κρατάνε, και σβήνουν με δικό τους εφέ.",
+     "Κάθε ability είναι πια «σούπερ κίνηση»: η εικόνα παγώνει για μια στιγμή, η οθόνη γίνεται δίχρωμη, ένα κύμα ξεκινάει από το όχημά σου και ένα πανό με το πορτρέτο σου περνάει από την οθόνη.",
+     "Κάθε ability έχει δικό του εφέ όσο κρατάει: φαντάσματα (Pip), κεραυνοί στο κέλυφος (Bao), ψηφιακά κομμάτια (Lily), αστέρια (Juno), πέταλα (Mochi), φωτιά στον δρόμο (Bruno).",
+     "Νέα particles παντού: σπίθες με ουρά, καπνός με υφή, φωτιά που σκουραίνει. Οι εκρήξεις, τα drift και οι προσγειώσεις φαίνονται πολύ πιο δυνατά.",
+     "Διορθώθηκε ένα σπάνιο μαύρο frame στην ποιότητα High."
+    ],
+    "en": [
+     "New lighting: on dark tracks, in covered bridges and in the ice gallery every vehicle switches on headlights that really light the road. Street lamps light the road, the grass and the karts, and wet asphalt shines under them.",
+     "No more invisible walls in the glider sections: at the edges a wind current carries you smoothly back into the course. You can see it as gusts at the edges, and it lines you up for the landing.",
+     "The story worlds are on the track: rusty steel plates, oil, mud, fresh asphalt, black ice, snow drifts, puddles, sand, volt strips, conveyors and Max's gold lane change how you drive, and you can read them from far away.",
+     "Timed hazards warn you: lava vents smoke and then blow, live cables spark in the puddles, gators blow bubbles, cranes have a painted danger zone.",
+     "You see what you drive on: sparks on steel, mud and water off the tyres, dust, snow, stones, electric arcs. Crosswinds blow snow and dust across the road.",
+     "Abilities light the road around you in their colour while they run, and wind down with their own effect.",
+     "Every ability is now a super move: a freeze-frame beat, a duotone impact frame, a shockwave from your kart and a cut-in with your portrait.",
+     "Each ability has its own look while it runs: afterimages (Pip), lightning on the shell (Bao), digital shards (Lily), stars (Juno), petals (Mochi), a burning road (Bruno).",
+     "New particles everywhere: spark streaks, textured smoke, fire that cools. Explosions, drifts and landings hit much harder.",
+     "Fixed a rare black frame on High quality."
+    ]
+   },
+   "version": "6.0.0"
+  },
+  {
    "date": "2026-11-24",
    "title": {
     "el": "Μηχανές, κόλπα και ζωντανές cutscenes",
@@ -69,16 +103,20 @@
   }
  ],
  "game": {
-  "version": "5.0.0",
-  "date": "2026-11-24",
-  "manifest": "game/manifests/5.0.0.json",
-  "size": 19722756
+  "version": "6.0.0",
+  "date": "2026-11-26",
+  "manifest": "game/manifests/6.0.0.json",
+  "size": 19923402
  },
  "minLauncher": "1.0.0",
  "news": [
   {
-   "el": "Νέα έκδοση 5.0.0: μηχανές και κόλπα στις ράμπες!",
-   "en": "Version 5.0.0 is out: bikes and ramp tricks!"
+   "el": "Νέα έκδοση 5.1.0: τα abilities χτυπάνε πια σαν σούπερ κινήσεις!",
+   "en": "Version 5.1.0: abilities now hit like super moves!"
+  },
+  {
+   "el": "Η έκδοση 5.0.0 έφερε μηχανές και κόλπα στις ράμπες.",
+   "en": "5.0.0 brought bikes and ramp tricks."
   }
  ]
 }
