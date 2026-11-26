@@ -1,0 +1,1101 @@
+{
+"lines": {
+"c_epilogue_5": {
+"who": "max",
+"dur": 2.82
+},
+"b_bruno_boom_0": {
+"who": "bruno",
+"dur": 1.39
+},
+"b_bruno_overtake_0": {
+"who": "bruno",
+"dur": 1.11
+},
+"c_s1_3": {
+"who": "kraken",
+"dur": 2.61
+},
+"c_m_end_3": {
+"who": "roula",
+"dur": 7.2
+},
+"c_s1_2": {
+"who": "lily",
+"dur": 5.5
+},
+"b_juno_lose_0": {
+"who": "juno",
+"dur": 1.85
+},
+"c_v1_7": {
+"who": "lily",
+"dur": 2.64
+},
+"b_juno_start_0": {
+"who": "juno",
+"dur": 2.4
+},
+"c_v2_3": {
+"who": "lily",
+"dur": 4.6
+},
+"c_prologue_7": {
+"who": "mochi",
+"dur": 2.15
+},
+"b_bao_win_0": {
+"who": "bao",
+"dur": 1.71
+},
+"b_mochi_lose_0": {
+"who": "mochi",
+"dur": 1.15
+},
+"c_b3_1": {
+"who": "bao",
+"dur": 0.88
+},
+"c_v_end_1": {
+"who": "max",
+"dur": 4.9
+},
+"c_v1_4": {
+"who": "bao",
+"dur": 0.86
+},
+"b_lily_lose_0": {
+"who": "lily",
+"dur": 0.75
+},
+"c_n1_2": {
+"who": "pip",
+"dur": 2.72
+},
+"c_s_duel_2": {
+"who": "lily",
+"dur": 4.63
+},
+"c_v2_4": {
+"who": "pip",
+"dur": 3.48
+},
+"b_lily_start_0": {
+"who": "lily",
+"dur": 1.7
+},
+"b_lily_ability_0": {
+"who": "lily",
+"dur": 1.57
+},
+"c_s_duel_1": {
+"who": "kraken",
+"dur": 5.7
+},
+"c_p_final_4": {
+"who": "bao",
+"dur": 1.88
+},
+"c_v_end_0": {
+"who": "max",
+"dur": 5.4
+},
+"c_r_duel_2": {
+"who": "pip",
+"dur": 1.27
+},
+"c_b1_2": {
+"who": "juno",
+"dur": 1.79
+},
+"b_max_lose_0": {
+"who": "max",
+"dur": 4.2
+},
+"c_f_duel_4": {
+"who": "mochi",
+"dur": 3.59
+},
+"c_r1_4": {
+"who": "lily",
+"dur": 5.5
+},
+"c_b1_5": {
+"who": "bao",
+"dur": 1.65
+},
+"c_r_duel_4": {
+"who": "pip",
+"dur": 4.0
+},
+"b_pip_lose_0": {
+"who": "pip",
+"dur": 1.81
+},
+"c_b_end_0": {
+"who": "roula",
+"dur": 5.9
+},
+"c_n1_3": {
+"who": "lily",
+"dur": 6.0
+},
+"c_r_end_3": {
+"who": "vex",
+"dur": 3.59
+},
+"c_n2_3": {
+"who": "lily",
+"dur": 6.7
+},
+"c_f2_1": {
+"who": "lily",
+"dur": 5.8
+},
+"c_f_end_3": {
+"who": "cinder",
+"dur": 5.09
+},
+"c_m2_2": {
+"who": "juno",
+"dur": 1.87
+},
+"c_r1_1": {
+"who": "bruno",
+"dur": 4.68
+},
+"c_v3_2": {
+"who": "vex",
+"dur": 4.5
+},
+"c_prologue_2": {
+"who": "bruno",
+"dur": 6.2
+},
+"c_p1_2": {
+"who": "vex",
+"dur": 4.8
+},
+"c_epilogue_1": {
+"who": "pip",
+"dur": 3.12
+},
+"c_m_duel_4": {
+"who": "bruno",
+"dur": 1.64
+},
+"c_f1_5": {
+"who": "juno",
+"dur": 1.61
+},
+"b_mochi_win_0": {
+"who": "mochi",
+"dur": 0.99
+},
+"c_m1_1": {
+"who": "dozer",
+"dur": 4.25
+},
+"c_f2_3": {
+"who": "mochi",
+"dur": 3.83
+},
+"b_juno_ability_0": {
+"who": "juno",
+"dur": 2.17
+},
+"c_v_end_3": {
+"who": "bruno",
+"dur": 5.6
+},
+"c_b_end_1": {
+"who": "pip",
+"dur": 8.9
+},
+"c_f_end_2": {
+"who": "cinder",
+"dur": 2.25
+},
+"c_s2_2": {
+"who": "bruno",
+"dur": 2.28
+},
+"c_r_end_1": {
+"who": "vex",
+"dur": 6.4
+},
+"c_r1_2": {
+"who": "vex",
+"dur": 2.47
+},
+"b_vex_lose_0": {
+"who": "vex",
+"dur": 0.88
+},
+"b_bao_hit_0": {
+"who": "bao",
+"dur": 3.0
+},
+"c_m2_4": {
+"who": "bao",
+"dur": 1.57
+},
+"b_pip_overtaken_0": {
+"who": "pip",
+"dur": 5.1
+},
+"c_v1_1": {
+"who": "pip",
+"dur": 4.1
+},
+"b_lily_overtaken_0": {
+"who": "lily",
+"dur": 1.57
+},
+"b_bao_lose_0": {
+"who": "bao",
+"dur": 1.1
+},
+"c_s2_3": {
+"who": "bao",
+"dur": 2.88
+},
+"c_f_end_4": {
+"who": "juno",
+"dur": 6.6
+},
+"c_prologue_5": {
+"who": "pip",
+"dur": 4.9
+},
+"c_r_end_4": {
+"who": "mochi",
+"dur": 1.05
+},
+"b_lily_overtake_0": {
+"who": "lily",
+"dur": 1.13
+},
+"c_prologue_6": {
+"who": "juno",
+"dur": 3.56
+},
+"b_bruno_start_0": {
+"who": "bruno",
+"dur": 0.96
+},
+"c_m_duel_3": {
+"who": "dozer",
+"dur": 1.9
+},
+"b_kraken_lose_0": {
+"who": "kraken",
+"dur": 3.2
+},
+"b_bao_overtake_0": {
+"who": "bao",
+"dur": 1.04
+},
+"c_v1_6": {
+"who": "juno",
+"dur": 2.19
+},
+"c_n1_4": {
+"who": "pip",
+"dur": 1.45
+},
+"c_f2_2": {
+"who": "bruno",
+"dur": 2.36
+},
+"c_f_duel_2": {
+"who": "mochi",
+"dur": 3.2
+},
+"b_pip_win_0": {
+"who": "pip",
+"dur": 1.3
+},
+"b_bao_ability_0": {
+"who": "bao",
+"dur": 0.89
+},
+"c_p1_1": {
+"who": "max",
+"dur": 7.0
+},
+"c_f_end_1": {
+"who": "mochi",
+"dur": 1.94
+},
+"c_p_final_1": {
+"who": "max",
+"dur": 5.5
+},
+"c_b2_1": {
+"who": "mochi",
+"dur": 2.49
+},
+"b_pip_hit_0": {
+"who": "pip",
+"dur": 2.18
+},
+"c_r2_2": {
+"who": "bao",
+"dur": 0.78
+},
+"c_m_end_2": {
+"who": "dozer",
+"dur": 4.4
+},
+"c_s_end_0": {
+"who": "kraken",
+"dur": 7.7
+},
+"c_p_final_5": {
+"who": "roula",
+"dur": 7.2
+},
+"b_dozer_win_0": {
+"who": "dozer",
+"dur": 1.43
+},
+"c_s_end_4": {
+"who": "roula",
+"dur": 7.2
+},
+"c_epilogue_3": {
+"who": "max",
+"dur": 3.05
+},
+"b_mochi_overtake_1": {
+"who": "mochi",
+"dur": 3.8
+},
+"c_v1_2": {
+"who": "max",
+"dur": 7.2
+},
+"c_r2_4": {
+"who": "lily",
+"dur": 3.86
+},
+"c_m_duel_2": {
+"who": "bruno",
+"dur": 4.86
+},
+"c_m1_2": {
+"who": "bruno",
+"dur": 5.72
+},
+"c_f_duel_3": {
+"who": "cinder",
+"dur": 2.6
+},
+"c_v2_1": {
+"who": "roula",
+"dur": 4.2
+},
+"c_s_end_1": {
+"who": "lily",
+"dur": 4.9
+},
+"c_f1_1": {
+"who": "mochi",
+"dur": 8.42
+},
+"c_v_end_4": {
+"who": "roula",
+"dur": 6.2
+},
+"b_mochi_ability_0": {
+"who": "mochi",
+"dur": 1.07
+},
+"c_f1_6": {
+"who": "mochi",
+"dur": 5.3
+},
+"c_s1_4": {
+"who": "pip",
+"dur": 4.6
+},
+"c_v2_0": {
+"who": "juno",
+"dur": 3.23
+},
+"c_prologue_3": {
+"who": "roula",
+"dur": 6.4
+},
+"c_v1_5": {
+"who": "max",
+"dur": 4.9
+},
+"b_pip_start_0": {
+"who": "pip",
+"dur": 1.37
+},
+"c_f_duel_1": {
+"who": "cinder",
+"dur": 4.7
+},
+"b_cinder_lose_0": {
+"who": "cinder",
+"dur": 1.74
+},
+"c_v3_5": {
+"who": "mochi",
+"dur": 2.4
+},
+"b_mochi_boom_0": {
+"who": "mochi",
+"dur": 1.66
+},
+"c_n2_0": {
+"who": "juno",
+"dur": 4.18
+},
+"b_dozer_overtake_0": {
+"who": "dozer",
+"dur": 1.93
+},
+"c_f1_4": {
+"who": "cinder",
+"dur": 4.9
+},
+"b_bruno_ability_0": {
+"who": "bruno",
+"dur": 0.99
+},
+"c_r1_5": {
+"who": "bruno",
+"dur": 2.44
+},
+"b_max_overtake_0": {
+"who": "max",
+"dur": 1.22
+},
+"c_prologue_8": {
+"who": "bao",
+"dur": 0.52
+},
+"b_lily_overtake_1": {
+"who": "lily",
+"dur": 1.43
+},
+"c_f_end_5": {
+"who": "mochi",
+"dur": 3.38
+},
+"c_v_end_2": {
+"who": "vex",
+"dur": 0.86
+},
+"b_bruno_win_0": {
+"who": "bruno",
+"dur": 5.7
+},
+"c_m_duel_1": {
+"who": "dozer",
+"dur": 5.1
+},
+"b_bruno_lose_0": {
+"who": "bruno",
+"dur": 1.6
+},
+"b_vex_overtake_0": {
+"who": "vex",
+"dur": 1.2
+},
+"c_m1_3": {
+"who": "dozer",
+"dur": 2.26
+},
+"c_epilogue_2": {
+"who": "lily",
+"dur": 3.83
+},
+"c_p_final_2": {
+"who": "pip",
+"dur": 1.85
+},
+"c_n_end_5": {
+"who": "bruno",
+"dur": 7.09
+},
+"c_b1_1": {
+"who": "bao",
+"dur": 12.4
+},
+"c_m_end_0": {
+"who": "dozer",
+"dur": 5.4
+},
+"c_v3_6": {
+"who": "pip",
+"dur": 5.1
+},
+"b_max_win_0": {
+"who": "max",
+"dur": 3.36
+},
+"b_mochi_overtake_0": {
+"who": "mochi",
+"dur": 2.83
+},
+"c_p1_4": {
+"who": "vex",
+"dur": 2.45
+},
+"c_prologue_4": {
+"who": "lily",
+"dur": 6.6
+},
+"c_n1_1": {
+"who": "juno",
+"dur": 5.84
+},
+"c_s1_1": {
+"who": "kraken",
+"dur": 4.8
+},
+"b_lily_hit_0": {
+"who": "lily",
+"dur": 1.66
+},
+"c_b2_0": {
+"who": "roula",
+"dur": 5.1
+},
+"c_s_end_3": {
+"who": "lily",
+"dur": 2.24
+},
+"c_m1_4": {
+"who": "lily",
+"dur": 5.7
+},
+"c_r2_0": {
+"who": "roula",
+"dur": 3.87
+},
+"b_bao_boom_0": {
+"who": "bao",
+"dur": 2.67
+},
+"c_m2_1": {
+"who": "bao",
+"dur": 4.1
+},
+"c_epilogue_4": {
+"who": "bao",
+"dur": 2.1
+},
+"c_s_duel_3": {
+"who": "kraken",
+"dur": 1.47
+},
+"c_b1_3": {
+"who": "lily",
+"dur": 4.73
+},
+"b_vex_win_0": {
+"who": "vex",
+"dur": 1.36
+},
+"c_s_end_2": {
+"who": "kraken",
+"dur": 1.43
+},
+"b_max_hit_0": {
+"who": "max",
+"dur": 1.03
+},
+"c_v3_4": {
+"who": "vex",
+"dur": 4.1
+},
+"c_epilogue_6": {
+"who": "juno",
+"dur": 2.06
+},
+"c_r_duel_1": {
+"who": "vex",
+"dur": 6.2
+},
+"b_max_start_0": {
+"who": "max",
+"dur": 1.52
+},
+"b_mochi_overtaken_0": {
+"who": "mochi",
+"dur": 0.83
+},
+"c_n1_5": {
+"who": "bruno",
+"dur": 3.52
+},
+"b_pip_overtake_0": {
+"who": "pip",
+"dur": 1.2
+},
+"b_juno_boom_0": {
+"who": "juno",
+"dur": 0.66
+},
+"c_epilogue_7": {
+"who": "roula",
+"dur": 8.8
+},
+"c_f1_2": {
+"who": "cinder",
+"dur": 2.77
+},
+"b_kraken_overtake_0": {
+"who": "kraken",
+"dur": 2.32
+},
+"b_pip_hit_1": {
+"who": "pip",
+"dur": 0.99
+},
+"b_lily_win_0": {
+"who": "lily",
+"dur": 1.54
+},
+"c_r2_1": {
+"who": "juno",
+"dur": 4.18
+},
+"c_n2_2": {
+"who": "juno",
+"dur": 4.72
+},
+"c_v1_0": {
+"who": "max",
+"dur": 6.0
+},
+"c_b2_2": {
+"who": "lily",
+"dur": 4.8
+},
+"c_n3_3": {
+"who": "vex",
+"dur": 3.16
+},
+"c_n2_1": {
+"who": "max",
+"dur": 4.6
+},
+"c_n3_2": {
+"who": "cinder",
+"dur": 1.81
+},
+"c_epilogue_8": {
+"who": "roula",
+"dur": 4.27
+},
+"c_n_end_1": {
+"who": "pip",
+"dur": 3.2
+},
+"c_p_final_3": {
+"who": "max",
+"dur": 3.26
+},
+"b_bruno_hit_0": {
+"who": "bruno",
+"dur": 1.49
+},
+"c_b1_4": {
+"who": "pip",
+"dur": 4.7
+},
+"c_r_end_5": {
+"who": "roula",
+"dur": 5.6
+},
+"b_bao_start_0": {
+"who": "bao",
+"dur": 0.59
+},
+"c_r_end_2": {
+"who": "pip",
+"dur": 0.99
+},
+"c_m_end_1": {
+"who": "bruno",
+"dur": 4.05
+},
+"c_f1_3": {
+"who": "mochi",
+"dur": 1.07
+},
+"b_lily_boom_0": {
+"who": "lily",
+"dur": 2.01
+},
+"b_juno_overtake_1": {
+"who": "juno",
+"dur": 1.21
+},
+"b_juno_overtake_0": {
+"who": "juno",
+"dur": 0.58
+},
+"c_p1_3": {
+"who": "pip",
+"dur": 1.38
+},
+"c_epilogue_0": {
+"who": "max",
+"dur": 2.93
+},
+"b_cinder_overtake_0": {
+"who": "cinder",
+"dur": 1.02
+},
+"b_juno_win_0": {
+"who": "juno",
+"dur": 1.21
+},
+"c_v3_3": {
+"who": "pip",
+"dur": 3.69
+},
+"c_prologue_1": {
+"who": "roula",
+"dur": 9.7
+},
+"c_n_end_2": {
+"who": "lily",
+"dur": 6.1
+},
+"b_bruno_overtake_1": {
+"who": "bruno",
+"dur": 0.82
+},
+"b_mochi_start_0": {
+"who": "mochi",
+"dur": 4.3
+},
+"c_m2_3": {
+"who": "lily",
+"dur": 6.0
+},
+"b_bruno_overtaken_0": {
+"who": "bruno",
+"dur": 2.05
+},
+"b_bao_overtake_1": {
+"who": "bao",
+"dur": 2.16
+},
+"c_m2_0": {
+"who": "roula",
+"dur": 5.5
+},
+"c_b_end_2": {
+"who": "mochi",
+"dur": 2.32
+},
+"c_n_end_4": {
+"who": "juno",
+"dur": 1.1
+},
+"b_pip_overtake_1": {
+"who": "pip",
+"dur": 1.46
+},
+"b_kraken_win_0": {
+"who": "kraken",
+"dur": 1.52
+},
+"c_n_end_3": {
+"who": "bruno",
+"dur": 3.57
+},
+"b_mochi_hit_0": {
+"who": "mochi",
+"dur": 2.11
+},
+"b_bao_overtaken_0": {
+"who": "bao",
+"dur": 0.67
+},
+"c_v1_3": {
+"who": "lily",
+"dur": 7.5
+},
+"c_r_duel_3": {
+"who": "vex",
+"dur": 4.0
+},
+"c_r1_3": {
+"who": "pip",
+"dur": 2.29
+},
+"c_f_end_0": {
+"who": "cinder",
+"dur": 5.57
+},
+"b_juno_overtaken_0": {
+"who": "juno",
+"dur": 0.95
+},
+"b_cinder_win_0": {
+"who": "cinder",
+"dur": 1.37
+},
+"b_pip_boom_0": {
+"who": "pip",
+"dur": 1.82
+},
+"c_v3_1": {
+"who": "pip",
+"dur": 2.47
+},
+"c_f2_0": {
+"who": "roula",
+"dur": 5.0
+},
+"c_r2_3": {
+"who": "juno",
+"dur": 2.6
+},
+"b_pip_ability_0": {
+"who": "pip",
+"dur": 1.27
+},
+"c_s2_0": {
+"who": "roula",
+"dur": 6.7
+},
+"c_n3_4": {
+"who": "pip",
+"dur": 3.38
+},
+"c_b3_0": {
+"who": "bruno",
+"dur": 4.0
+},
+"c_s2_1": {
+"who": "max",
+"dur": 6.0
+},
+"b_juno_hit_0": {
+"who": "juno",
+"dur": 0.92
+},
+"c_r_end_0": {
+"who": "vex",
+"dur": 4.8
+},
+"c_b_end_3": {
+"who": "juno",
+"dur": 2.99
+},
+"c_n3_1": {
+"who": "max",
+"dur": 7.0
+},
+"c_v2_2": {
+"who": "bruno",
+"dur": 4.53
+},
+"c_prologue_9": {
+"who": "pip",
+"dur": 2.26
+},
+"b_dozer_lose_0": {
+"who": "dozer",
+"dur": 1.35
+},
+"c_x8_2": {
+"who": "lily",
+"dur": 7.8
+},
+"c_x8_5": {
+"who": "roula",
+"dur": 5.5
+},
+"c_x6_5": {
+"who": "lily",
+"dur": 7.0
+},
+"c_x4_3": {
+"who": "lily",
+"dur": 6.0
+},
+"c_x1_4": {
+"who": "bruno",
+"dur": 3.1
+},
+"c_x_end_5": {
+"who": "pip",
+"dur": 4.5
+},
+"c_x1_5": {
+"who": "pip",
+"dur": 4.1
+},
+"c_x7_2": {
+"who": "lily",
+"dur": 5.0
+},
+"c_x7_4": {
+"who": "pip",
+"dur": 3.27
+},
+"c_x3_3": {
+"who": "cinder",
+"dur": 1.89
+},
+"c_x_end_0": {
+"who": "max",
+"dur": 5.3
+},
+"c_x_end_1": {
+"who": "juno",
+"dur": 2.68
+},
+"c_x3_2": {
+"who": "mochi",
+"dur": 3.37
+},
+"c_x7_1": {
+"who": "kraken",
+"dur": 4.9
+},
+"c_x_end_3": {
+"who": "lily",
+"dur": 3.25
+},
+"c_x_end_2": {
+"who": "max",
+"dur": 8.1
+},
+"c_x6_4": {
+"who": "rook",
+"dur": 1.2
+},
+"c_x8_1": {
+"who": "max",
+"dur": 7.2
+},
+"c_x1_3": {
+"who": "lily",
+"dur": 6.7
+},
+"c_x6_2": {
+"who": "rook",
+"dur": 5.1
+},
+"c_x1_2": {
+"who": "max",
+"dur": 5.82
+},
+"c_x8_3": {
+"who": "pip",
+"dur": 2.65
+},
+"c_x3_1": {
+"who": "cinder",
+"dur": 5.85
+},
+"c_x2_4": {
+"who": "mochi",
+"dur": 3.3
+},
+"c_x6_3": {
+"who": "juno",
+"dur": 3.26
+},
+"c_x5_1": {
+"who": "dozer",
+"dur": 5.1
+},
+"c_x5_3": {
+"who": "dozer",
+"dur": 4.8
+},
+"c_x7_3": {
+"who": "kraken",
+"dur": 2.04
+},
+"c_x3_4": {
+"who": "mochi",
+"dur": 2.59
+},
+"c_x6_1": {
+"who": "juno",
+"dur": 4.7
+},
+"c_x2_2": {
+"who": "max",
+"dur": 4.5
+},
+"c_x4_2": {
+"who": "bao",
+"dur": 1.3
+},
+"c_x_end_4": {
+"who": "bao",
+"dur": 0.92
+},
+"c_x2_5": {
+"who": "roula",
+"dur": 3.67
+},
+"c_x8_4": {
+"who": "bao",
+"dur": 1.19
+},
+"c_x5_2": {
+"who": "bruno",
+"dur": 3.84
+},
+"c_x1_1": {
+"who": "roula",
+"dur": 8.5
+},
+"c_x4_1": {
+"who": "roula",
+"dur": 7.3
+},
+"c_x4_4": {
+"who": "pip",
+"dur": 3.57
+},
+"c_x2_3": {
+"who": "juno",
+"dur": 2.08
+},
+"c_x2_1": {
+"who": "bruno",
+"dur": 5.0
+},
+"c_x5_4": {
+"who": "roula",
+"dur": 5.3
+},
+"c_x_end_6": {
+"who": "roula",
+"dur": 6.85
+},
+"b_rook_win_0": {
+"who": "rook",
+"dur": 1.75
+},
+"b_rook_overtake_0": {
+"who": "rook",
+"dur": 1.16
+},
+"b_rook_lose_0": {
+"who": "rook",
+"dur": 2.12
+}
+},
+"voice": "Piper TTS, el_GR-rapunzelina-medium (dataset CC0), best of 8 takes by Whisper CER, per-character ffmpeg processing"
+}

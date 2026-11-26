@@ -4,6 +4,34 @@
   {
    "date": "2026-11-26",
    "title": {
+    "el": "6.1: SPECIAL πίστες, 12 οδηγοί, Bull-Shit και borderless fullscreen",
+    "en": "6.1: SPECIAL tracks, 12 drivers, Bull-Shit and borderless full screen"
+   },
+   "notes": {
+    "el": [
+     "8 νέες SPECIAL πίστες, η καθεμιά με ένα τεράστιο κόλπο: THE MAXIMIZER (ο οδοστρωτήρας του Ταύρου σε κυνηγάει και όποιον πιάσει τον κάνει δρόμο), AVALANCHE (η χιονοστιβάδα θάβει όποιον μείνει πίσω), STAMPEDE (η αγέλη περνάει τον δρόμο), TAURUS DAM (σπάει το φράγμα και πλημμυρίζει η κοιλάδα), ERUPTION (το ηφαίστειο σκάει μέσα στον αγώνα), MAXIMALL (διάλεξε διάδρομο μέσα στο mall), SKY HIGH (ένα μεγάλο glide με ανεμοστρόβιλους) και TAURUS HIGHWAY.",
+     "TAURUS HIGHWAY: ένας αγώνας ~3,5 λεπτών μέσα από ΟΛΟΥΣ τους κόσμους. Από το απόγευμα στην ακτή, μέσα από τη νύχτα στη Βολτ Σίτι και στο Χυτήριο, ως την ανατολή στο Βουνό του Ταύρου. Ουρανός, φως, έδαφος, δέντρα, κίνδυνοι και μουσική αλλάζουν στον δρόμο.",
+     "Στις special τρέχουν 12 οδηγοί: όλο το πλήρωμα απέναντι σε όλα τα Κέρατα, μαζί και ο νέος Ρουκ. Σε γρήγορο αγώνα, στο online και στο story.",
+     "Ο Μαξ έχει νέο ability, το BULL-SHIT: αφήνει πίσω του κουράδες που αχνίζουν. Όποιος πατήσει, γλιστράει, κολλάει και γεμίζει μύγες.",
+     "Νέο κεφάλαιο story: «Τα Special του Ταύρου», 8 αγώνες με cutscenes, φωνές, κασέτες και νέο φινάλε. Έπαθλο: το φεγγάρι.",
+     "Νέα ρύθμιση Οθόνη: Παράθυρο ή Borderless fullscreen. Το F11 και το Alt+Enter την αλλάζουν οπουδήποτε, και ο launcher τη θυμάται.",
+     "Φωτισμός: οι προβολείς του δικού σου οχήματος δεν τυφλώνουν πια στις νυχτερινές πίστες (το λευκό σύννεφο μπροστά σου έφυγε). Ό,τι είναι μπροστά σου, καρτ, κουτιά, μπάρες και χιόνι, φαίνεται καθαρά."
+    ],
+    "en": [
+     "8 new SPECIAL tracks, each with one huge gimmick: THE MAXIMIZER (Max's paver chases the pack and paves whoever it catches), AVALANCHE (the snow buries whoever falls behind), STAMPEDE (the herd crosses the road), TAURUS DAM (the dam breaks and the valley floods), ERUPTION (the volcano blows mid-race), MAXIMALL (pick your corridor inside the mall), SKY HIGH (one long glide with tornadoes) and TAURUS HIGHWAY.",
+     "TAURUS HIGHWAY: one ~3.5 minute race through EVERY world, from an afternoon on the coast, through the night in Voltage City and the Magma Works, to sunrise on Bull Mountain. The sky, the light, the ground, the trees, the hazards and the music change on the way.",
+     "12 drivers on the specials: the whole crew against all of the Horns, new Horn Rook included. In quick race, online and the story.",
+     "Max has a new ability, BULL-SHIT: he leaves a trail of steaming dung. Hit a pile and you slide, stick and collect flies.",
+     "New story chapter: \"Taurus Specials\", 8 races with cutscenes, voices, tapes and a new finale. The prize: the moon.",
+     "New Display setting: Window or Borderless full screen. F11 and Alt+Enter toggle it anywhere and the launcher remembers it.",
+     "Lighting: your own headlights no longer blind you on night tracks (the white cloud in front of you is gone). Whatever is ahead of you, karts, crates, barriers and snow, stays readable."
+    ]
+   },
+   "version": "6.1.0"
+  },
+  {
+   "date": "2026-11-26",
+   "title": {
     "el": "v6: φως, κόσμοι που φαίνονται, abilities που χτυπάνε",
     "en": "v6: real light, worlds you can read, abilities that hit hard"
    },
@@ -103,10 +131,10 @@
   }
  ],
  "game": {
-  "version": "6.0.0",
+  "version": "6.1.0",
   "date": "2026-11-26",
-  "manifest": "game/manifests/6.0.0.json",
-  "size": 19923402
+  "manifest": "game/manifests/6.1.0.json",
+  "size": 21609176
  },
  "minLauncher": "1.0.0",
  "news": [
